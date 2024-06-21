@@ -6,12 +6,12 @@ Welcome to my Portfolio! Here you will find links and descriptions to my most re
 
 ### [Serving-Servlet-Looks](https://github.com/mikipuita/Serving-Servlet-Looks)
 **Description**: Developed a three-tier web-based application using servlets and JSP tech running on a Tomcat server to access and maintain a MySQL database.  
-**Technologies Used**: Java, Servlets, HTML, CSS, Tomcat, JavaScript, mySQL  
+**Technologies Used**: Java, Servlets, HTML, CSS, Tomcat, JavaScript, mySQL
 **Highlights**: Authentication via a Servlet (credentialsDB), Users with different access levels (Security), Business Logic
 
 ### [Basic-Shopping-Cart](https://github.com/mikipuita/Basic-Shopping-Cart)
 **Description**: Developed an event-driven enterprise simulation GUI in Java for shopping cart functionality including item management, checkout, and invoicing.  
-**Technologies Used**: Java, Swing, FileInputStream (File I/O)  
+**Technologies Used**: Java, Swing, FileInputStream (File I/O), csv
 **Highlights**: Error handling, Invoices, Checkout
 
 ### [Security-Python-Practice](https://github.com/mikipuita/SecurityPythonPractice)
