@@ -9,7 +9,7 @@ Welcome to my Portfolio! Here you will find links and descriptions to my most re
    **Technologies Used**: Java, Servlets, HTML, CSS, Tomcat, JavaScript, mySQL
    **Highlights**: Authentication via a Servlet (credentialsDB), Users with different access levels (Security), Business Logic
 
-2. [Basic-Shopping-Cart] (https://github.com/mikipuita/Basic-Shopping-Cart)
+3. [Basic-Shopping-Cart] (https://github.com/mikipuita/Basic-Shopping-Cart)
    **Description**: Developed an event-driven enterprise simulation GUI in Java for shopping cart functionality including item management, checkout, and invoicing.
    **Technologies Used**: Java, Swing, FileInputStream (File I/O)
    **Highlights**: Error handling, Invoices, Checkout
